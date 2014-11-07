@@ -6,8 +6,9 @@ int main()
 	int age;
 	cout << "Enter age: " << endl;
 	cin >> age;
-
-	int fortune_value = age % 5;
+	int fortune_value;
+	cout << "Enter a number from 1 to 10" << endl;
+	cin >> fortune_value;
 
 	
 	if (fortune_value == 0)
