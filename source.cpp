@@ -9,24 +9,18 @@ int main()
 
 	int fortune_value = age % 5;
 
-	switch (fortune_value)
-	{
-	case 0:
+	
+	if (fortune_value == 0)
 		cout << "Fortune 0" << endl;
-		break;
-	case 1:
+	if (fortune_value == 1)
 		cout << "Fortune 1" << endl;
-		break;
-	case 2:
+	if (fortune_value == 2)
 		cout << "Fortune 2" << endl;
-		break;
-	case 3:
+	if (fortune_value == 3)
 		cout << "Fortune 3" << endl;
-		break;
-	case 4:
+	if (fortune_value == 4)
 		cout << "Fortune 4" << endl;
-		break;
-	}
+
 
 	getchar();
 }
