@@ -1,9 +1,4 @@
 1.Learn about data types
-
 2.Learn how to make text appear on the screen
--  
-
-
 3.Learn about if statements
-
 4.Learn to print to the screen
