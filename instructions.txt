@@ -1,4 +1,7 @@
 1.Learn about data types
-2.Learn how to make text appear on the screen
-3.Learn about if statements
-4.Learn to print to the screen
+2.Learn to print to the screen
+3.Mathematical operations
+4.Learn about if/else statements
+5.Learn to take in input
+6.Put together for project
+7.Advancing project by making more complex algorithm eg. take in age with modulo, use length of name
