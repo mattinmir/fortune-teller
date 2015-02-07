@@ -3,7 +3,9 @@ using namespace std;
 
 int main()
 {
-	float number;
+	cout << 3 * 2 << endl; 
+	
+	int number;
 
 	number = 10;
 	cout << number + 5 << endl;
